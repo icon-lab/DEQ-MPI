@@ -121,11 +121,13 @@ preLoadDirDC: preload learned consistency network path
 
 # Inference for Simulated & Experimental datasets
 
-Simulated:
+Data for the simulated data is generated on the fly as described in the manuscript. Data for the experimental dataset is pre-processed and saved as described in the manuscript.
+
+Simulated Dataset:
 
 ```python inferenceSimulated.py```
 
-Experimental:
+Experimental Dataset:
 
 ```python inferenceExperimental.py```
 
@@ -144,8 +146,8 @@ You are encouraged to modify/distribute this code. However, please acknowledge t
   year={2023},
   volume={},
   number={},
-  pages={},
-  doi={}}
+  pages={1-1},
+  doi={10.1109/TMI.2023.3300704}}
 
 
 @InProceedings{ppmpi,
