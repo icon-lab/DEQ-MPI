@@ -1,4 +1,4 @@
-# PP-MPI
+# DEQ-MPI
 Official repository for Deep Equilibrium MPI Reconstruction with Learned Consistency (DEQ-MPI)
 
 A. Güngör, B. Askin, D. A. Soydan, C. B. Top, E. U. Saritas and T. Çukur, "DEQ-MPI: A Deep Equilibrium Reconstruction with Learned Consistency for Magnetic Particle Imaging," in IEEE Transactions on Medical Imaging, doi: 10.1109/TMI.2023.3300704.
